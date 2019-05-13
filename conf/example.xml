@@ -1,0 +1,15 @@
+<breakfast_menu>
+    <food>
+        <name>##RANDOM_STRING(Belgian Waffles, Strawberry Belgian Waffles, Homestyle Breakfast, French Toast)##</name>
+        <price>##RANDOM_DOUBLE(2.2, 5.5)##</price>
+        <description>whatever...Scala is cool, This is customer Produces</description>
+        <calories>##RANDOM_INT(200, 800)##</calories>
+    </food>
+
+    <food>
+        <name>##RANDOM_STRING(Dinner - light only, lunch -chappati saag , Homestyle Breakfast, French Toast)##</name>
+        <price>##RANDOM_DOUBLE(2.2, 5.5)##</price>
+        <description>whatever... kafka is coool, This is customer producer sample XML </description>
+        <calories>##RANDOM_INT(200, 800)##</calories>
+    </food>
+</breakfast_menu>
